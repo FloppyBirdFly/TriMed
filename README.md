@@ -12,7 +12,7 @@ A simple 3D-printed medicine holder to store three different medications. Perfec
 
 *Image of the uncapped container, exposing the internal divider*
 * Three separate compartments to organize medications
-* A rotating internal divider that snaps to expose one medication at a time
+* A rotating internal divider that snaps to dispense one medication at a time
 * 3D-printed screw-on lid.
 
 ### Why?
@@ -27,6 +27,8 @@ I designed this for my own personal use to carry over-the-counter medicine.
 
 I modeled it in Fusion. This was the first and last project I ended up making in Fusion. I switched to Onshape right after modeling this, because that is what my robotics team uses.
 
+![Printed prototype](Assets/printed_prototype.png)
+*A picture of the first complete prototype I printed*
 ## Guide
 ### Materials
 * **PLA** or any other rigid filament
@@ -43,3 +45,6 @@ I modeled it in Fusion. This was the first and last project I ended up making in
 ### Assembly
 1. **Insert the divider into the body.** Ensure the cylinder fits into the corresponding hole in the body and that the bumps latch into the grooves inside the body.
 2. **Screw on the lid**
+
+## AI Usage Declaration
+I used AI to grammar check the README, along with helping me with Markdown formatting.
