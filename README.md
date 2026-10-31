@@ -26,16 +26,16 @@ I modeled it Fusion, this was the first and last thing I ended up making anythin
 ## Building
 ### Materials
 * **PLA** or other rigid filament
-
-That's it!
 ### Printing
-* Settings shouldn't really matter a ton
-* Designed to not require supports
+**Body**
+* Print with **circular base on the bottom**. The cavity should be facing up.
 
-**Orientations**
+**Lid**
+* Print with **flat circular section adhered to the bed**.
+
+**Divider**
+* Print the divider with the **flat part facing down**. The skinny cylinder should face upwards into the air.
 
 ### Assembly
-1. **Insert the divider into the body.** Ensure the divider latches into the grooves inside the body.
+1. **Insert the divider into the body.** Ensure the cylinder fits into the corresponding hole in the body, as well as the bumps latch into the grooves inside the body.
 2. **Screw on the lid**
-
-You're done!! Yay
