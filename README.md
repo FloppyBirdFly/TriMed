@@ -1,12 +1,19 @@
 # TriMed
-
+![]
 A simple 3D-printed medicine holder to hold three different medications. Perfect to carry basic over-the-counter medications or for your daily routinue! 
 
 ## CAD
 #### Image of the CAD
-Modeled it in Fusion, this was the first and last thing I ended up making in Fusion, as I switched to Onshape right after learning Fusion properly.
+![Model inside of Autodesk Fusion](~/Assets/full.png)
+
+I modeled it Fusion, this was the first and last thing I ended up making anything inside Fusion. I ended up switching to Onshape right after modeling this, as that is what my robotics team uses.
 
 ## Building
-
 ### Materials
-* 
+* **PLA** or other rigid filament
+That's it!
+### Assembly
+1. Print out the parts **seperately**
+2. **Insert the divider into the body.** Ensure the divider latches into the grooves inside the body.
+3. **Screw on the lid**
+You're done!!
